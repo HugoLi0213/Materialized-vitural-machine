@@ -45,4 +45,3 @@ This document provides instructions for configuring VMware settings and installi
 
 This guide assumes familiarity with basic VMware operations and Windows/Linux command-line interfaces. Adjustments may be required based on the specific versions of VMware and the operating systems involved.
 
-Citations:

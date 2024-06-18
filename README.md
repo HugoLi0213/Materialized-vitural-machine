@@ -1,6 +1,6 @@
 # README for VMware Configuration Changes and Tools Installation
 
-This document provides instructions for configuring VMware settings and installing VMware Tools version 11.1.5 on a virtual machine (VM).This Materialized-virtual-machine can be used to play games or execute programs to avoid the problem of can not run in vitural machine.
+This document provides instructions for configuring VMware settings and installing VMware Tools version 11.1.5 on a virtual machine (VM).This Materialized-virtual-machine can be used to play games or execute programs to avoid the problem that can not run in vitural machine.
 
 ## Prerequisites
 
